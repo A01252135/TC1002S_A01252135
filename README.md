@@ -8,5 +8,12 @@ Alam Lopez Montoya
 ## MATRICULA
 A01252135
 
+## EQUIPO
+Maria Fernanda Damian A0151918
+Guillermo Williams A01253329
+Jose Daniel Pablos A01252290
+
 ## LISTADO DE EJERCICIOS
-* Lista de los ejercicios contenidos en el repositorio
+* Actividad Estadistica Descriptiva
+* Actividad Mapa de Calor y Boxplot
+* Actividad K-means
